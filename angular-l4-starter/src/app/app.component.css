@@ -1,0 +1,24 @@
+#header {
+  text-align: center;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+#header img {
+  max-width: 300px;
+  border: 1px solid black;
+  box-shadow: 2px 5px 2px rgb(166, 166, 166);
+}
+h3 {
+  background-color: rgb(210, 203, 216);
+  padding: 4px;
+  border: 1px dotted #e6eff6;
+  max-width: 500px;
+  margin: 20px auto;
+}
+h5 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 20px;
+}
+p {
+  max-width: 800px;
+  margin: 20px auto;
+}

@@ -1,0 +1,10 @@
+#header {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#header img {
+  max-width: 300px;
+  border: 1px solid black;
+  box-shadow: 2px 5px 2px rgb(166, 166, 166);
+}
